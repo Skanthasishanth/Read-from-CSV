@@ -3,6 +3,9 @@
 ## AIM:
 To write a python program for reading content from a CSV file.
 
+## EQUIPEMENT'S REQUIRED:
+PC, Anaconda - Python 3.7
+
 ## ALGORITHM:
 
 ### Step 1:
